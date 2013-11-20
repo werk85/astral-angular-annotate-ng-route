@@ -1,4 +1,4 @@
 astral-angular-annotate-ng-route
 ================================
 
-ngmin annotations for ngRoute
+ngmin annotations for ngRoute.

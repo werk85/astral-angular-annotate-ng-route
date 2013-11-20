@@ -1,0 +1,21 @@
+{
+  "name": "astral-angular-annotate-ng-route",
+  "version": "0.0.1",
+  "description": "ngmin annotations for ngRoute",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/werk85/astral-angular-annotate-ng-route.git"
+  },
+  "author": "Malte Legenhausen <legenhausen@werk85.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/werk85/astral-angular-annotate-ng-route/issues"
+  },
+  "dependencies": {
+    "astral-angular-annotate": "0.0.2"
+  }
+}
